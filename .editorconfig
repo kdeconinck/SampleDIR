@@ -1,0 +1,6 @@
+# Indicate that this is the `ROOT` configuration file.
+root = true
+
+# Configuration for ALL files.
+[*]
+insert_final_newline = true
